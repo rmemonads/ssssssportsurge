@@ -78,7 +78,7 @@ fetch(apiURL)
           sport: getCategoryName(match.category) || "-",
           tournament: "",
           match: match.title || "-",
-          url: `https://raaj648.github.io/streampage2sportsurge/?id=${match.id}`,
+          url: `https://rmemonads.github.io/streampage2sportsurge/?id=${match.id}`,
           isTitleMatch: !!titleMatch
         });
       }

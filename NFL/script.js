@@ -95,7 +95,7 @@ fetch(apiURL)
         tournament: "",
         match: match.title || "-",
         status,
-        url: `https://raaj648.github.io/streampage2sportsurge/?id=${match.id}`,
+        url: `https://rmemonads.github.io/streampage2sportsurge/?id=${match.id}`,
         isTitleMatch: !!titleMatch
       });
     });
